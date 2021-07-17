@@ -2,13 +2,13 @@
 
  
 
-- What the heck is web development  
+# What the heck is web development  
     - Web developer's work  
     - Web development's parts  
         - Front End  
         - Back End  
 
-- Front end  
+# Front end  
     - Work  
         - Managing user interface  
     - Required skills and knowledge  
@@ -30,7 +30,7 @@
         - --FIGMA--  
         - Workflow  
         - Typescript  
-- Back end  
+# Back end  
     - Work  
         - Server management  
         - Database management  
